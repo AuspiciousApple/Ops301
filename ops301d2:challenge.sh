@@ -18,7 +18,7 @@ sleep 2
  
 echo "syslog is appending"
 
-mv syslog syslog.$today
+mv ~/Desktop/301-d2/syslog syslog.$today
 
 sleep 2
 
