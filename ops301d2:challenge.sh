@@ -12,13 +12,13 @@ sleep 2
 
 echo "Syslog Copying"
 
-cp /var/log/syslog ~/Desktop/301-d2
+cp /var/log/syslog ~/Desktop/
 
 sleep 2
  
 echo "syslog is appending"
 
-mv ~/Desktop/301-d2/syslog syslog.$today
+mv ~/Desktop/syslog syslog.$today
 
 sleep 2
 
