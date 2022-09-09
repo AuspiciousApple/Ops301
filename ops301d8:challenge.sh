@@ -1,0 +1,1 @@
+New-ADUser -Name "Franz Ferdinand" -Title "Reporting Lead" -Company "GlobeX" -City "Springfield" -GivenName "Franz" -Surname "Ferdinand" -Department "TPS" -State "OR" -EmailAddress "ferdi@GlobeXpower.com" -Country "US"
